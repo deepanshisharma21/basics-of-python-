@@ -1,4 +1,4 @@
 # basics-of-python-
-notes of python in google collage with codes
+notes of python in google collab with codes
 <br>
-Author-Deepanshi 
+Author-Deepanshi  
